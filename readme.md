@@ -5,9 +5,9 @@ URL3: <a href="https://michelfritzsch.de/epg3">https://michelfritzsch.de/epg3</a
 <p class="has-line-data" data-line-start="5" data-line-end="8">Mich bei der Arbeit unterstützen:<br>
 Amazon: <a href="https://amzn.to/3n0TQOz">https://amzn.to/3n0TQOz</a><br>
 Paypal: <a href="https://paypal.me/pools/c/8vCVzBTlDP">https://paypal.me/pools/c/8vCVzBTlDP</a></p>
-Bitcoin: 3LC3mFfpGqpgwHxEoEYZPrHnkRtDRR5xAT
-Etherum: 0x1fC0b9f79fed50cb6D8CD989f6EfC1AFAC507F10
-
+Bitcoin: 3LC3mFfpGqpgwHxEoEYZPrHnkRtDRR5xAT</p>
+Etherum: 0x1fC0b9f79fed50cb6D8CD989f6EfC1AFAC507F10</p>
+</p>
 
 <p class="has-line-data" data-line-start="10" data-line-end="349">Senderliste URL1:<br>
 1-2-3 TV HD<br>
