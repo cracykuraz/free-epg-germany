@@ -2,13 +2,20 @@ IPTV Pro / IPTV / Kodi:<br>
 <h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="_0"></a></h1>
 <p class="has-line-data" data-line-start="1" data-line-end="4">URL1: <a href="https://michelfritzsch.de/epg">https://michelfritzsch.de/epg</a><br>
 URL2: <a href="https://michelfritzsch.de/egp2">https://michelfritzsch.de/egp2</a><br>
-URL3: <a href="https://michelfritzsch.de/epg3">https://michelfritzsch.de/epg3</a></p>
+Empfohlen: URL3: <a href="https://michelfritzsch.de/epg3">https://michelfritzsch.de/epg3</a></p>
 <p class="has-line-data" data-line-start="5" data-line-end="8">Mich bei der Arbeit unterstützen:<br>
 #Amazon: <a href="https://amzn.to/3n0TQOz">https://amzn.to/3n0TQOz</a><br>
 #Paypal: <a href="https://paypal.me/pools/c/8vCVzBTlDP">https://paypal.me/pools/c/8vCVzBTlDP</a></p>
 #Bitcoin: 3LC3mFfpGqpgwHxEoEYZPrHnkRtDRR5xAT</p>
 #Etherum: 0x1fC0b9f79fed50cb6D8CD989f6EfC1AFAC507F10</p>
 </p>
+
+##Ich habe eine m3U aber EPG wird nicht angezeigt:
+1. Öffne die EPG im Browers am PC
+2. Schaue ob die "channel id" aus XML des EPGs mit der tvg-name und tvg-id von der m3u übereinstimmt.
+
+M3U: #EXTINF:-1 tvg-name="Das Erste" tvg-id="Das Erste"
+EPG: <channel id="Das Erste">
 
 <p class="has-line-data" data-line-start="10" data-line-end="349">Senderliste URL1:<br>
 1-2-3 TV HD<br>
