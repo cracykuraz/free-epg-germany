@@ -17,7 +17,7 @@ Empfohlen: URL3: <a href="https://michelfritzsch.de/epg3">https://michelfritzsch
 M3U: #EXTINF:-1 tvg-name="Das Erste" tvg-id="Das Erste"
 EPG: <channel id="Das Erste">
 
-<p class="has-line-data" data-line-start="10" data-line-end="349">Senderliste:<br>
+<p class="has-line-data" data-line-start="10" data-line-end="349">Senderliste (siehe tvlist.xml):<br>
 
 13th Street : 13th Street
 Discovery Channel D : Discovery Channel D
