@@ -17,344 +17,220 @@ Empfohlen: URL3: <a href="https://michelfritzsch.de/epg3">https://michelfritzsch
 M3U: #EXTINF:-1 tvg-name="Das Erste" tvg-id="Das Erste"
 EPG: <channel id="Das Erste">
 
-<p class="has-line-data" data-line-start="10" data-line-end="349">Senderliste URL1:<br>
-1-2-3 TV HD<br>
-Show Turk<br>
-1FLTV HD<br>
-20 Mediaset<br>
-Haber Türk TV<br>
-3+ HD<br>
-3Sat HD<br>
-4Music<br>
-4+ HD<br>
-4seven<br>
-5+<br>
-5SELECT<br>
-6+<br>
-6ter<br>
-AB1<br>
-Al Jazeera English HD<br>
-Anixe HD<br>
-ANIXE+<br>
-ARD-alpha HD<br>
-Das Erste HD<br>
-Arirang TV HD<br>
-ARTE HD<br>
-ARTE [fr] HD<br>
-auto motor und sport Channel HD<br>
-Baden TV<br>
-BBC One HD<br>
-BBC Two HD<br>
-BBC Four HD<br>
-BBC Arabic<br>
-BBC News HD<br>
-BBC Parliament<br>
-BBC World News HD<br>
-<a href="http://Beate-Uhse.TV">Beate-Uhse.TV</a> (Sky)<br>
-Tele Swizz HD<br>
-BFM TV HD<br>
-Bibel TV HD<br>
-Bloomberg TV<br>
-Blue Hustler<br>
-BN TV Sat<br>
-Boing F<br>
-Boing I<br>
-Boomerang<br>
-Boomerang F<br>
-BR Fernsehen Süd HD<br>
-BVN<br>
-C8 HD<br>
-Canal 24 Horas<br>
-Canal 9<br>
-Canal Alpha NE HD<br>
-Canal Alpha JU HD<br>
-Canale 5<br>
-Canale Italia<br>
-cartoonito<br>
-Cartoon Network<br>
-CBBC HD<br>
-CBeebies HD<br>
-CGTN<br>
-Challenge<br>
-Channel 21 HD<br>
-Channel 4 HD<br>
-Channel 5 HD<br>
-Trace Urban UK<br>
-Chérie 25<br>
-Now 90s<br>
-Cielo<br>
-Class TV Moda<br>
-Clubland TV<br>
-CMC - Croatian Music Channel<br>
-Stingray CMusic<br>
-CNBC Europe<br>
-CNEWS HD<br>
-CNN International HD<br>
-CNN TÜRK<br>
-Comedy Central HD<br>
-CSTAR HD<br>
-Der Aktionär TV HD<br>
-Dave<br>
-DELUXE MUSIC HD<br>
-Deutsches Musik Fernsehen<br>
-Deutsche Welle Arabic<br>
-DW<br>
-Deutsche Welle [en]<br>
-Deutsche Welle Spanish<br>
-Disney Channel<br>
-DMAX Italia<br>
-DM Sat<br>
-Drama<br>
-dream TÜRK<br>
-E4<br>
-E! Entertainment<br>
-eoTV<br>
-L’Équipe<br>
-eSports1 HD<br>
-Euro D<br>
-Euronews [ger]<br>
-Euronews F<br>
-Euronews I<br>
-EuroNews [en] HD<br>
-Eurosport 1<br>
-Eurosport 2<br>
-Euro Star<br>
-Extreme Sports<br>
-Fashion TV HD<br>
-Film 4<br>
-5USA<br>
-Fix&amp;Foxi<br>
-Focus<br>
-Folx TV<br>
-Food Network E<br>
-France 24 (in English)<br>
-France 24 HD [fr]<br>
-France 2 HD<br>
-France 3 HD<br>
-France 4 HD<br>
-France 5 HD<br>
-franceinfo<br>
-FreeSports HD<br>
-Frisbee<br>
-Giallo<br>
-GOD TV<br>
-GoldStar TV<br>
-GoTV<br>
-Gulli HD<br>
-Gute Laune TV HD<br>
-Halk TV<br>
-Health TV<br>
-Heimatkanal<br>
-HGTV<br>
-HR HD<br>
-HRT 4 HD<br>
-HRT 1 HD<br>
-HSE 24 HD<br>
-HSE24 Extra HD<br>
-HSE24 Trend<br>
-i24 News<br>
-i24 News Français<br>
-IRIS<br>
-Italia 1<br>
-Italia 2<br>
-ITV 1 HD<br>
-ITV 2<br>
-ITV 3<br>
-ITV 4<br>
-ITVBe<br>
-ITVN<br>
-Jukebox HD<br>
-K2<br>
-Kabel Eins HD<br>
-Kabel Eins Deutschland HD<br>
-Kabel Eins CLASSICS<br>
-Kabel Eins Doku HD<br>
-Kanal 9<br>
-Kika HD<br>
-Kinowelt TV<br>
-Kiss TV<br>
-KTO<br>
-K-TV<br>
-Kuriakos TV HD<br>
-La5<br>
-La 7d<br>
-La 7<br>
-LaTele<br>
-LCI HD<br>
-Leman Bleu HD<br>
-LFM TV HD<br>
-M6 Suisse HD<br>
-MDR SACHSEN HD<br>
-Melodie TV<br>
-More 4<br>
-Motorvision TV HD<br>
-MTV HD<br>
-MTV<br>
-N24 Doku<br>
-NASA TV<br>
-National Geographic Wild D<br>
-NDR Niedersachsen HD<br>
-NETVIET<br>
-Nick HD<br>
-Nick/MTV+<br>
-NOVE<br>
-NRJ 12 HD<br>
-NRWision HD<br>
-n-tv HD<br>
-n-tv HD<br>
-RMC Story<br>
-ONE HD<br>
-One TV HD<br>
-ORF1 HD<br>
-ORF2 HD<br>
-ORF III<br>
-ORF Sport+<br>
-Paramount Network<br>
-PBS America<br>
-Phoenix HD<br>
-Pick<br>
-Pink Extra<br>
-Pink Film<br>
-Pink Folk<br>
-Pink Kids<br>
-Pink Koncert<br>
-Pink Music<br>
-Pink Plus<br>
-Pink Reality<br>
-Pink Serije<br>
-Pink World<br>
-Pro7 Schweiz HD<br>
-Pro7 Deutschland HD<br>
-ProSieben FUN HD<br>
-ProSieben MAXX Schweiz HD<br>
-Puls 8 HD<br>
-QS24<br>
-QVC Style HD<br>
-QVC HD<br>
-QVC 2 HD<br>
-R9 Österreich HD<br>
-Radio Bremen TV HD<br>
-Rai 1<br>
-Rai 2<br>
-Rai 3<br>
-Rai 4<br>
-Rai 5<br>
-Rai Gulp<br>
-Rai Movie<br>
-Rai News<br>
-Rai Premium<br>
-Rai Scuola<br>
-Rai Sport 1<br>
-Rai Sport 2<br>
-Rai Storia<br>
-Rai Yoyo<br>
-rbb Berlin HD<br>
-<a href="http://RCK.TV">RCK.TV</a> HD<br>
-Real Time<br>
-Record News<br>
-Rete 4<br>
-Rhein-Main TV<br>
-RiC<br>
-RMC Découverte<br>
-Rocket Beans TV<br>
-Romance TV<br>
-Rouge TV HD<br>
-RSI La1 HD<br>
-RSI La2 HD<br>
-RTL 102.5<br>
-RTL Zwei HD<br>
-RTL Zwei Deutschland HD<br>
-RTL HD<br>
-RTL Deutschland HD<br>
-NITRO HD<br>
-NITRO HD<br>
-RTLplus HD<br>
-RTP Internacional<br>
-RTS deux HD<br>
-RTS un HD<br>
-S1 HD<br>
-S4C<br>
-Saarland Fernsehen 1<br>
-Sat.1 Schweiz HD<br>
-Sat.1 emotions<br>
-Sat.1 Deutschland HD<br>
-SAT.1 Gold HD<br>
-Servus TV Deutschland HD<br>
-Sixx HD<br>
-Sixx HD<br>
-Sky News<br>
-Sky Sport News HD<br>
-sky TG 24<br>
-SonLife<br>
-Sonnenklar TV HD<br>
-Sony Channel<br>
-Spiegel Geschichte (Sky)<br>
-Spiegel TV Wissen HD<br>
-Spike<br>
-Sport1 HD<br>
-sport1+ HD<br>
-SPORTDIGITAL FUSSBALL HD<br>
-SRF 1 HD<br>
-SRF zwei HD<br>
-SR Fernsehen HD<br>
-SRF info HD<br>
-SRF info HD<br>
-Star TV HD<br>
-Super!<br>
-Super RTL Schweiz HD<br>
-Super RTL Deutschland HD<br>
-Swiss 1 HD<br>
-SWR BW HD<br>
-tagesschau24 HD<br>
-Teleclub Zoom HD<br>
-Teleclub Zoom [fr] HD<br>
-Tele 1 HD<br>
-TELE 5 HD<br>
-TeleBärn HD<br>
-TeleBasel HD<br>
-TeleBielingue HD<br>
-Tele M1 HD<br>
-Telepace<br>
-Tele Ticino<br>
-Tele Top HD<br>
-TeleZ<br>
-Telezüri HD<br>
-TF1 HD<br>
-TF1 Séries Films HD<br>
-TFX HD<br>
-TLC<br>
-TMC<br>
-TOGGO plus HD<br>
-TeleSüdostschweiz HD<br>
-TV24 HD<br>
-TV25 HD<br>
-TV5 Monde<br>
-TV5 Monde FBS<br>
-TV8<br>
-TV8 Mont-Blanc HD<br>
-TV8 Int<br>
-TVE Internacional<br>
-Globo HD<br>
-TVM3<br>
-TVN24<br>
-TVO<br>
-RecordTV HD<br>
-UNINETTUNO University TV<br>
-Universal TV<br>
-VOX HD<br>
-Vox Deutschland HD<br>
-VOXup HD<br>
-W9 Suisse<br>
-WDR Köln HD<br>
-WELT HD<br>
-Welt der Wunder<br>
-<a href="http://wetter.tv">wetter.tv</a><br>
-<a href="http://wetter.com">wetter.com</a> TV<br>
-XITE<br>
-Yesterday<br>
-ZDF HD<br>
-ZDFinfo HD<br>
-ZDFneo HD<br>
-DMAX</p>
-<p class="has-line-data" data-line-start="350" data-line-end="352">Senderliste URL2:<br>
+<p class="has-line-data" data-line-start="10" data-line-end="349">Senderliste:<br>
+
+13th Street : 13th Street
+Discovery Channel D : Discovery Channel D
+Discovery Channel I : Discovery Channel I
+Discovery Travel + Living I : Discovery Travel + Living I
+Disney Channel D : Disney Channel D
+Disney Channel F : Disney Channel F
+Disney Junior D : Disney Junior D
+Disney Junior F : Disney Junior F
+Disney Junior Italia : Disney Junior Italia
+Disney XD D : Disney XD D
+Disney XD F : Disney XD F
+kabel eins CLASSICS : kabel eins CLASSICS
+123.tv : 123.tv
+13th Street Universal : 13th Street Universal
+3+ : 3+
+3sat : 3sat
+Adult Channel : Adult Channel
+Al Jazeera : Al Jazeera
+Animal Planet : Animal Planet
+ANIXE : ANIXE
+ARD alpha : ARD alpha
+ARTE : ARTE
+ATV : ATV
+ATV Avrupa : ATV Avrupa
+ATV II : ATV II
+Auto Motor Sport : Auto Motor Sport
+AXN : AXN
+BBC Entertainment : BBC Entertainment
+BBC Four : BBC Four
+BBC News : BBC News
+BBC One : BBC One
+BBC Two : BBC Two
+BBC World News : BBC World News
+Beate-Uhse.TV : Beate-Uhse.TV
+Belgien 1 : Belgien 1
+Bibel TV : Bibel TV
+Bloomberg Europe TV : Bloomberg Europe TV
+Blue Movie : Blue Movie
+Blue Movie 2 : Blue Movie 2
+Blue Movie 3 : Blue Movie 3
+BR : BR
+Canal+ : Canal+
+Canal+ CinÃ©ma : Canal+ CinÃ©ma
+Canal+ DÃ©calÃ© : Canal+ DÃ©calÃ©
+Canale 5 : Canale 5
+Canal+ Sport : Canal+ Sport
+Cartoon Network : Cartoon Network
+Channel21 : Channel21
+Classica : Classica
+CNBC : CNBC
+CNN International : CNN International
+CNN Money : CNN Money
+CNN TÃ¼rk : CNN TÃ¼rk
+Comedy Central : Comedy Central
+Das Erste : Das Erste
+Deutsches Musik Fernsehen : Deutsches Musik Fernsehen
+Discovery HD : Discovery HD
+Disney Channel : Disney Channel
+Disney XD : Disney XD
+DMAX : DMAX
+DR1 : DR1
+DW (Europe) : DW (Europe)
+E! Entertainment : E! Entertainment
+eoTV : eoTV
+eSports1 : eSports1
+Euro D : Euro D
+euronews (en) : euronews (en)
+euronews (ger) : euronews (ger)
+Eurosport 1 : Eurosport 1
+Eurosport 2 : Eurosport 2
+Euro Star : Euro Star
+EXTREME SPORTS : EXTREME SPORTS
+Fashion TV : Fashion TV
+Fine Living Network : Fine Living Network
+Fix & Foxi : Fix & Foxi
+FOX : FOX
+France 2 : France 2
+France 24 (engl.) : France 24 (engl.)
+France 24 (franz.) : France 24 (franz.)
+France 3 : France 3
+France 4 : France 4
+France 5 : France 5
+France Ã” : France Ã”
+GEO Television : GEO Television
+Goldstar TV : Goldstar TV
+Gute Laune TV : Gute Laune TV
+Hamburg 1 : Hamburg 1
+Health TV : Health TV
+Heimatkanal : Heimatkanal
+History HD : History HD
+Home & Garden TV : Home & Garden TV
+HR : HR
+HSE24 : HSE24
+Jukebox : Jukebox
+kabel eins : kabel eins
+kabel eins classics : kabel eins classics
+kabel eins Doku : kabel eins Doku
+Kanal 7 Int : Kanal 7 Int
+KiKA : KiKA
+KinoweltTV : KinoweltTV
+K-TV : K-TV
+LEIPZIG FERNSEHEN : LEIPZIG FERNSEHEN
+LUST PUR : LUST PUR
+Marco Polo TV : Marco Polo TV
+MDR : MDR
+Mezzo : Mezzo
+Motorvision TV : Motorvision TV
+MTV : MTV
+MTV Base : MTV Base
+MTV Dance : MTV Dance
+MTV Hits : MTV Hits
+MTV Live HD : MTV Live HD
+mÃ¼nchen.tv : mÃ¼nchen.tv
+N24 Doku : N24 Doku
+Nat Geo HD : Nat Geo HD
+NAT GEO WILD : NAT GEO WILD
+Nautical Channel : Nautical Channel
+NDR : NDR
+NHK World TV : NHK World TV
+nick : nick
+Nick Jr. : Nick Jr.
+Nicktoons : Nicktoons
+NITRO : NITRO
+NOW US : NOW US
+n-tv : n-tv
+oe24.TV : oe24.TV
+ONE : ONE
+ORF 1 : ORF 1
+ORF 2 : ORF 2
+ORF III : ORF III
+ORF SPORT + : ORF SPORT +
+PHOENIX : PHOENIX
+Planet : Planet
+Playboy TV : Playboy TV
+ProSieben : ProSieben
+ProSieben Fun : ProSieben Fun
+ProSieben MAXX : ProSieben MAXX
+PULS 4 : PULS 4
+PULS acht : PULS acht
+QVC : QVC
+QVC2 : QVC2
+RBB : RBB
+RCK TV : RCK TV
+RiC : RiC
+Rocket Beans TV : Rocket Beans TV
+Romance TV : Romance TV
+RTL Crime : RTL Crime
+RTL II : RTL II
+RTL Living : RTL Living
+RTL Passion : RTL Passion
+RTLplus : RTLplus
+SAT.1 : SAT.1
+SAT.1 emotions : SAT.1 emotions
+SAT.1 Gold : SAT.1 Gold
+ServusTV : ServusTV
+Show Turk : Show Turk
+Silverline : Silverline
+sixx : sixx
+Sky 1 : Sky 1
+Sky Action : Sky Action
+Sky Atlantic HD : Sky Atlantic HD
+Sky Cinema : Sky Cinema
+Sky Cinema+1 : Sky Cinema+1
+Sky Cinema+24 : Sky Cinema+24
+Sky Comedy : Sky Comedy
+Sky Emotion : Sky Emotion
+Sky Family : Sky Family
+Sky Hits HD : Sky Hits HD
+Sky Krimi : Sky Krimi
+Sky Nostalgie : Sky Nostalgie
+Sky select : Sky select
+Sky Sport Austria : Sky Sport Austria
+Sky Sport Bundesliga : Sky Sport Bundesliga
+Sky Sport HD 1 : Sky Sport HD 1
+Sky Sport HD 2 : Sky Sport HD 2
+Sky Sport News HD : Sky Sport News HD
+Sonnenklar.TV : Sonnenklar.TV
+Sony Entertainment Television : Sony Entertainment Television
+Spiegel Geschichte : Spiegel Geschichte
+Spiegel TV Wissen : Spiegel TV Wissen
+SPORT1 : SPORT1
+SPORT1+ : SPORT1+
+sportdigital : sportdigital
+SRF 1 : SRF 1
+SRF zwei : SRF zwei
+STAR TV : STAR TV
+SUPER RTL : SUPER RTL
+SWR : SWR
+Syfy : Syfy
+tagesschau24 : tagesschau24
+Tele 5 : Tele 5
+TLC : TLC
+TNT Comedy : TNT Comedy
+TNT Film : TNT Film
+TNT Serie : TNT Serie
+TOGGO plus : TOGGO plus
+Trace TV : Trace TV
+travelxp 4K : travelxp 4K
+Turkmax Gurme : Turkmax Gurme
+TV2 : TV2
+TV5 Monde : TV5 Monde
+tv.berlin : tv.berlin
+UHD1 : UHD1
+Universal Channel HD : Universal Channel HD
+VH1 Classic : VH1 Classic
+VOX : VOX
+VOXup : VOXup
+WDR : WDR
+WELT : WELT
+Welt der Wunder TV : Welt der Wunder TV
+ZDF : ZDF
+ZDFinfo : ZDFinfo
+ZDFneo : ZDFneo
+Zee.One : Zee.One
 Folgt</p>
